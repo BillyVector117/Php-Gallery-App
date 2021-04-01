@@ -1,0 +1,32 @@
+.image {
+  border: blue solid 3px;
+  border-top: rgb(4, 248, 216) solid 3px;
+  border-bottom: rgb(1, 75, 172) solid 3px;
+  border-left: rgba(181, 226, 16, 0.952) solid 3px;
+  border-right: rgb(248, 71, 1) solid 3px;
+  transition: transform 0.2s ease-out;
+}
+.image:hover {
+  transform: scale(1.2);
+}
+.image2 {
+  border: blue solid 3px;
+  border-top: rgb(4, 248, 216) solid 3px;
+  border-bottom: rgb(1, 75, 172) solid 3px;
+  border-left: rgba(181, 226, 16, 0.952) solid 3px;
+  border-right: rgb(248, 71, 1) solid 3px;
+  transition: transform 0.2s ease-out;
+}
+.image2:hover {
+  transform: scale(1.4);
+}
+.image3 {
+  border: blue solid 3px;
+  border-top: rgb(4, 248, 216) solid 3px;
+  border-bottom: rgb(1, 75, 172) solid 3px;
+  border-left: rgba(181, 226, 16, 0.952) solid 3px;
+  border-right: rgb(248, 71, 1) solid 3px;
+}
+.img-thumbnail {
+  border: 0;
+}
